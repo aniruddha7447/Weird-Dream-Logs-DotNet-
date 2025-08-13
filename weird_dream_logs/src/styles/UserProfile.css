@@ -1,0 +1,19 @@
+.user-profile-container {
+  max-width: 500px;
+  margin: 30px auto;
+  padding: 2em;
+  background: #232323;
+  border-radius: 8px;
+  color: #fff;
+}
+.profile-avatar {
+  margin-top: 1em;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #646cff;
+}
+.posts-list {
+  margin-top: 2em;
+} 

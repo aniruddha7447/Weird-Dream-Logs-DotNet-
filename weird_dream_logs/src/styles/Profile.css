@@ -1,0 +1,261 @@
+/* Profile Styles */
+.profile-container {
+  background: #eaf0fb;
+  color: #222;
+  min-height: 60vh;
+  padding: 2em 1em;
+  border-radius: 24px;
+  box-shadow: 0 8px 32px rgba(60,72,88,0.10);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  max-width: 1400px;
+  margin: 0 auto;
+  gap: 2.5em;
+}
+.profile-tabs {
+  display: flex;
+  flex-direction: row;
+  gap: 2em;
+  margin-bottom: 2em;
+  background: #fff;
+  border-radius: 14px;
+  padding: 0.5em 2em;
+  box-shadow: 0 2px 8px rgba(60,72,88,0.06);
+  width: fit-content;
+  justify-content: center;
+  border: 1.5px solid #e1e5e9;
+}
+.profile-tabs button {
+  background: #f3f4f6;
+  color: #222;
+  border: none;
+  border-radius: 8px 8px 0 0;
+  padding: 0.8em 2.2em;
+  font-size: 1.1em;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s, border 0.2s;
+  box-shadow: none;
+  margin: 0;
+  outline: none;
+}
+.profile-tabs button:not(.active) {
+  color: #444;
+  background: transparent;
+}
+.profile-tabs button.active {
+  background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+  color: #fff;
+  border-bottom: 2.5px solid #667eea;
+  z-index: 2;
+}
+.profile-tabs button:focus {
+  outline: 2px solid #667eea;
+}
+.profile-card, .profile-section {
+  background: linear-gradient(120deg, #f6f8fa 60%, #e2d1f9 100%);
+  border-radius: 16px;
+  box-shadow: 0 4px 24px rgba(102,126,234,0.10);
+  margin-bottom: 2em;
+  padding: 2em 1.5em;
+}
+.profile-card.wide-card {
+  max-width: 1000px !important;
+}
+.profile-card:hover {
+  box-shadow: 0 8px 32px rgba(102,126,234,0.13);
+  background: #f3f4f6;
+}
+.profile-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2em;
+  max-width: 400px;
+  margin-top: 1.5em;
+}
+.profile-form input,
+.profile-form textarea {
+  width: 100%;
+  box-sizing: border-box;
+  background: #fff;
+  color: #222;
+  border: 1.5px solid #d1d5db;
+  border-radius: 8px;
+  padding: 0.8em 1em;
+  font-size: 1em;
+  margin-bottom: 1em;
+  transition: border-color 0.2s;
+}
+.profile-form input:focus,
+.profile-form textarea:focus {
+  border-color: #667eea;
+  outline: none;
+}
+.profile-form button {
+  align-self: flex-start;
+  margin-top: 0.5em;
+  background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 0.7em 1.5em;
+  font-size: 1em;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s, box-shadow 0.2s;
+}
+.profile-form button:hover {
+  background: linear-gradient(90deg, #5a67d8 0%, #6c3483 100%);
+  box-shadow: 0 4px 16px rgba(102,126,234,0.10);
+}
+.profile-avatar {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  margin-top: 1em;
+  border: 3px solid #667eea;
+  object-fit: cover;
+}
+.success {
+  color: #059669;
+  background: #e6f9f0;
+  border: 1px solid #bbf7d0;
+  padding: 0.75rem;
+  border-radius: 8px;
+  margin-top: 1rem;
+  font-size: 0.95rem;
+}
+.error {
+  color: #e74c3c;
+  background: #fdf2f2;
+  border: 1px solid #fecaca;
+  padding: 0.75rem;
+  border-radius: 8px;
+  margin-top: 1rem;
+  font-size: 0.95rem;
+}
+.posts-list-grid, .user-list-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(320px, 1fr));
+  gap: 2.5em;
+  margin-top: 2em;
+  justify-items: center;
+  width: 100%;
+  align-items: stretch;
+}
+.post {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  min-height: 420px;
+}
+.category-filter {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  background: #f6f8fa;
+  padding: 0.5em 1em;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(60,72,88,0.06);
+  font-size: 1.05em;
+}
+.category-filter label {
+  color: #444;
+  font-weight: 500;
+}
+.category-filter select {
+  padding: 0.4em 1.2em;
+  border-radius: 6px;
+  border: 1.5px solid #d1d5db;
+  background: #fff;
+  color: #333;
+  font-size: 1em;
+  transition: border 0.2s, box-shadow 0.2s;
+  outline: none;
+}
+.category-filter select:focus {
+  border: 1.5px solid #764ba2;
+  box-shadow: 0 0 0 2px #e0e7ff;
+}
+.profile-info-box {
+  background: #f9fafb;
+  border-radius: 10px;
+  padding: 1.2em 1em;
+  margin-bottom: 2em;
+  box-shadow: 0 1px 4px rgba(60,72,88,0.04);
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+  max-width: 400px;
+}
+.profile-info-label {
+  color: #888;
+  font-weight: 500;
+  margin-right: 0.5em;
+}
+.profile-info-value {
+  color: #222;
+  font-weight: 600;
+}
+.input-icon-wrapper {
+  position: relative;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.input-icon-wrapper input {
+  width: 100%;
+  padding-right: 2.2em;
+}
+.show-hide-icon {
+  position: absolute;
+  right: 0.7em;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #888;
+  cursor: pointer;
+  font-size: 1.1em;
+  transition: color 0.2s;
+}
+.show-hide-icon:hover {
+  color: #667eea;
+}
+@media (max-width: 1100px) {
+  .posts-list-grid, .user-list-grid {
+    grid-template-columns: repeat(2, minmax(260px, 1fr));
+  }
+}
+@media (max-width: 700px) {
+  .posts-list-grid, .user-list-grid {
+    grid-template-columns: 1fr;
+  }
+  .profile-card {
+    padding: 1em 0.5em;
+  }
+  .profile-tabs {
+    flex-direction: column;
+    gap: 0.5em;
+    padding: 0.5em 0.5em;
+  }
+  .profile-tabs button {
+    padding: 0.7em 1em;
+    font-size: 1em;
+  }
+  .profile-form {
+    padding: 0.5em;
+  }
+}
+.profile-tabs button, .category-filter select, .profile-form button, .user-card-actions button, .dashboard-tabs button, .followers-tabs button, .submit-btn, .cta-button, .login-btn, .register-btn {
+  transition: background 0.2s, color 0.2s, box-shadow 0.2s, transform 0.15s;
+}
+.profile-tabs button:hover, .profile-form button:hover, .user-card-actions button:hover, .dashboard-tabs button:hover, .followers-tabs button:hover, .submit-btn:hover, .cta-button:hover, .login-btn:hover, .register-btn:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 16px rgba(102,126,234,0.13);
+  z-index: 1;
+}
+.profile-tabs button:active, .profile-form button:active, .user-card-actions button:active, .dashboard-tabs button:active, .followers-tabs button:active, .submit-btn:active, .cta-button:active, .login-btn:active, .register-btn:active {
+  transform: scale(0.97);
+  box-shadow: 0 2px 8px rgba(102,126,234,0.10);
+} 

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeirdDreamLogs", "WeirdDreamLogs.csproj", "{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95C596F4-4FD9-40E6-A63B-DD29C6975D73}
+	EndGlobalSection
+EndGlobal

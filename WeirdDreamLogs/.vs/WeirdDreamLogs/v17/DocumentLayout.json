@@ -1,0 +1,470 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|d:\\cdac modules\\dot net prj (f)\\weirddreamlogs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|d:\\cdac modules\\dot net prj (f)\\weirddreamlogs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\obj\\project.assets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\project.assets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\WeirdDreamLogs.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WeirdDreamLogs.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\obj\\WeirdDreamLogs.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\WeirdDreamLogs.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\obj\\project.nuget.cache||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\project.nuget.cache||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|d:\\cdac modules\\dot net prj (f)\\weirddreamlogs\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|d:\\cdac modules\\dot net prj (f)\\weirddreamlogs\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|d:\\cdac modules\\dot net prj (f)\\weirddreamlogs\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|d:\\cdac modules\\dot net prj (f)\\weirddreamlogs\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|d:\\cdac modules\\dot net prj (f)\\weirddreamlogs\\controllers\\dreamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|solutionrelative:controllers\\dreamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|d:\\cdac modules\\dot net prj (f)\\weirddreamlogs\\models\\dream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|solutionrelative:models\\dream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|d:\\cdac modules\\dot net prj (f)\\weirddreamlogs\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|d:\\cdac modules\\dot net prj (f)\\weirddreamlogs\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|solutionrelative:controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|d:\\cdac modules\\dot net prj (f)\\weirddreamlogs\\models\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|solutionrelative:models\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|d:\\cdac modules\\dot net prj (f)\\weirddreamlogs\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|d:\\cdac modules\\dot net prj (f)\\weirddreamlogs\\migrations\\20250626112333_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|solutionrelative:migrations\\20250626112333_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|d:\\cdac modules\\dot net prj (f)\\weirddreamlogs\\migrations\\20250626121635_addemailtouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|solutionrelative:migrations\\20250626121635_addemailtouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|d:\\cdac modules\\dot net prj (f)\\weirddreamlogs\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|d:\\cdac modules\\dot net prj (f)\\weirddreamlogs\\models\\createdreamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|solutionrelative:models\\createdreamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|d:\\cdac modules\\dot net prj (f)\\weirddreamlogs\\models\\createlikedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|solutionrelative:models\\createlikedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|d:\\cdac modules\\dot net prj (f)\\weirddreamlogs\\models\\dreamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|solutionrelative:models\\dreamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|d:\\cdac modules\\dot net prj (f)\\weirddreamlogs\\models\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|solutionrelative:models\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|d:\\cdac modules\\dot net prj (f)\\weirddreamlogs\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|solutionrelative:models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|d:\\cdac modules\\dot net prj (f)\\weirddreamlogs\\models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|solutionrelative:models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|d:\\cdac modules\\dot net prj (f)\\weirddreamlogs\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3952B7F1-DA9A-4CF5-91FF-0BD63F6D7F30}|WeirdDreamLogs.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAAkTAAAAAAAAAAAcwDQTAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-07-03T16:55:43.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-26T10:34:40.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "project.assets.json",
+              "DocumentMoniker": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\obj\\project.assets.json",
+              "RelativeDocumentMoniker": "obj\\project.assets.json",
+              "ToolTip": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\obj\\project.assets.json",
+              "RelativeToolTip": "obj\\project.assets.json",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAqwFwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-26T10:34:46.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "project.nuget.cache",
+              "DocumentMoniker": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\obj\\project.nuget.cache",
+              "RelativeDocumentMoniker": "obj\\project.nuget.cache",
+              "ToolTip": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\obj\\project.nuget.cache",
+              "RelativeToolTip": "obj\\project.nuget.cache",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
+              "WhenOpened": "2025-06-26T10:34:48.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAMwE0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T10:45:45.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-24T12:20:57.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeirdDreamLogs.csproj.nuget.dgspec.json",
+              "DocumentMoniker": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\obj\\WeirdDreamLogs.csproj.nuget.dgspec.json",
+              "RelativeDocumentMoniker": "obj\\WeirdDreamLogs.csproj.nuget.dgspec.json",
+              "ToolTip": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\obj\\WeirdDreamLogs.csproj.nuget.dgspec.json",
+              "RelativeToolTip": "obj\\WeirdDreamLogs.csproj.nuget.dgspec.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-26T10:34:54.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeirdDreamLogs.csproj.user",
+              "DocumentMoniker": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\WeirdDreamLogs.csproj.user",
+              "RelativeDocumentMoniker": "WeirdDreamLogs.csproj.user",
+              "ToolTip": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\WeirdDreamLogs.csproj.user",
+              "RelativeToolTip": "WeirdDreamLogs.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-06-26T10:54:55.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:09:05.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:30:28.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:42:49.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DreamsController.cs",
+              "DocumentMoniker": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Controllers\\DreamsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DreamsController.cs",
+              "ToolTip": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Controllers\\DreamsController.cs",
+              "RelativeToolTip": "Controllers\\DreamsController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAIEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:27:12.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dream.cs",
+              "DocumentMoniker": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Models\\Dream.cs",
+              "RelativeDocumentMoniker": "Models\\Dream.cs",
+              "ToolTip": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Models\\Dream.cs",
+              "RelativeToolTip": "Models\\Dream.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:34:08.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:27:10.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CommentsController.cs",
+              "ToolTip": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "Controllers\\CommentsController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAACYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:36:07.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateCommentDto.cs",
+              "DocumentMoniker": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Models\\CreateCommentDto.cs",
+              "RelativeDocumentMoniker": "Models\\CreateCommentDto.cs",
+              "ToolTip": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Models\\CreateCommentDto.cs",
+              "RelativeToolTip": "Models\\CreateCommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:47:53.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T18:00:56.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250626112333_InitialCreate.cs",
+              "DocumentMoniker": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Migrations\\20250626112333_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250626112333_InitialCreate.cs",
+              "ToolTip": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Migrations\\20250626112333_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250626112333_InitialCreate.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T18:03:42.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250626121635_AddEmailToUser.cs",
+              "DocumentMoniker": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Migrations\\20250626121635_AddEmailToUser.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250626121635_AddEmailToUser.cs",
+              "ToolTip": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Migrations\\20250626121635_AddEmailToUser.cs",
+              "RelativeToolTip": "Migrations\\20250626121635_AddEmailToUser.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T18:03:31.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Models\\Comment.cs",
+              "ToolTip": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Models\\Comment.cs",
+              "RelativeToolTip": "Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T19:54:51.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateDreamDto.cs",
+              "DocumentMoniker": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Models\\CreateDreamDto.cs",
+              "RelativeDocumentMoniker": "Models\\CreateDreamDto.cs",
+              "ToolTip": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Models\\CreateDreamDto.cs",
+              "RelativeToolTip": "Models\\CreateDreamDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T19:54:51.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateLikeDto.cs",
+              "DocumentMoniker": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Models\\CreateLikeDto.cs",
+              "RelativeDocumentMoniker": "Models\\CreateLikeDto.cs",
+              "ToolTip": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Models\\CreateLikeDto.cs",
+              "RelativeToolTip": "Models\\CreateLikeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T19:54:51.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DreamDto.cs",
+              "DocumentMoniker": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Models\\DreamDto.cs",
+              "RelativeDocumentMoniker": "Models\\DreamDto.cs",
+              "ToolTip": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Models\\DreamDto.cs",
+              "RelativeToolTip": "Models\\DreamDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T19:54:51.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Like.cs",
+              "DocumentMoniker": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Models\\Like.cs",
+              "RelativeDocumentMoniker": "Models\\Like.cs",
+              "ToolTip": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Models\\Like.cs",
+              "RelativeToolTip": "Models\\Like.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T19:54:51.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Models\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Models\\LoginDto.cs",
+              "ToolTip": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Models\\LoginDto.cs",
+              "RelativeToolTip": "Models\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T19:54:51.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Models\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterDto.cs",
+              "ToolTip": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Models\\RegisterDto.cs",
+              "RelativeToolTip": "Models\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T19:54:52.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\CDAC Modules\\DOT Net Prj (F)\\WeirdDreamLogs\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T21:15:02.592Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

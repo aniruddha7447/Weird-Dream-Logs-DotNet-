@@ -1,0 +1,68 @@
+/* Navbar Styles */
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(24,24,24,0.95);
+  padding: 1em 2em;
+  border-radius: 0;
+  margin: 0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  position: sticky;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  z-index: 100;
+  gap: 2em;
+  backdrop-filter: blur(8px);
+}
+.navbar-logo {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #646cff;
+  margin-right: 0;
+  letter-spacing: 1px;
+}
+.navbar-link {
+  color: #bbb;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 1.1em;
+  padding: 0.2em 0.7em;
+  border-radius: 6px;
+  transition: background 0.2s, color 0.2s;
+  margin: 0 0.2em;
+}
+.navbar-link.active, .navbar-link:hover {
+  background: #232347;
+  color: #fff;
+}
+.navbar-logout {
+  background: #ff6b6b;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 0.5em 1.2em;
+  font-size: 1em;
+  cursor: pointer;
+  font-weight: 500;
+  transition: background 0.2s;
+  margin-left: 0.5em;
+}
+.navbar-logout:hover {
+  background: #d44;
+}
+@media (max-width: 900px) {
+  .navbar {
+    flex-direction: column;
+    align-items: center;
+    padding: 1em;
+    gap: 1em;
+    width: 100vw;
+  }
+  .navbar-link, .navbar-logout {
+    width: 100%;
+    text-align: center;
+    margin: 0.2em 0;
+  }
+} 

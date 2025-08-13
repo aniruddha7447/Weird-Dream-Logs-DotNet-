@@ -1,0 +1,111 @@
+/* Dashboard Styles */
+.dashboard-container {
+  background: #eaf0fb;
+  color: #222;
+  min-height: 100vh;
+  padding: 3em 2em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  max-width: 1400px;
+  margin: 0 auto;
+  border-radius: 24px;
+  box-shadow: 0 8px 32px rgba(60,72,88,0.10);
+}
+.dashboard-cards {
+  display: flex;
+  flex-direction: row;
+  gap: 2.5em;
+  align-items: flex-start;
+  justify-content: center;
+}
+.dashboard-card {
+  background: linear-gradient(120deg, #f6f8fa 60%, #e2d1f9 100%);
+  border-left: 6px solid #764ba2;
+  box-shadow: 0 4px 24px rgba(102,126,234,0.10);
+  border-radius: 16px;
+  margin-bottom: 2em;
+  transition: box-shadow 0.2s, background 0.2s;
+  animation: fadeInUp 0.7s ease;
+}
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(40px);}
+  to { opacity: 1; transform: translateY(0);}
+}
+.dashboard-card:hover {
+  box-shadow: 0 8px 32px rgba(102,126,234,0.13);
+  background: linear-gradient(120deg, #e2d1f9 60%, #eaf0fb 100%);
+}
+.dashboard-tabs {
+  display: flex;
+  gap: 2em;
+  margin-bottom: 2em;
+  background: #fff;
+  border-radius: 14px;
+  padding: 0.5em 2em;
+  box-shadow: 0 2px 8px rgba(60,72,88,0.06);
+  width: fit-content;
+  justify-content: center;
+  border: 1.5px solid #e1e5e9;
+}
+.dashboard-tabs button {
+  background: #f3f4f6;
+  color: #222;
+  border: none;
+  border-radius: 8px 8px 0 0;
+  padding: 0.8em 2.2em;
+  font-size: 1.1em;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s, border 0.2s;
+  box-shadow: none;
+  margin: 0;
+  outline: none;
+}
+.dashboard-tabs button.active {
+  background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+  color: #fff;
+  border-bottom: 2.5px solid #667eea;
+  z-index: 2;
+}
+.posts-list-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+  gap: 2em;
+  margin-top: 2em;
+  width: 100%;
+  justify-items: center;
+}
+@media (max-width: 900px) {
+  .dashboard-cards {
+    flex-direction: column;
+    gap: 1.5em;
+  }
+}
+@media (max-width: 700px) {
+  .dashboard-card {
+    padding: 1em 0.5em;
+  }
+  .posts-list-grid {
+    grid-template-columns: 1fr;
+  }
+}
+.profile-card.wide-card {
+  background: linear-gradient(120deg, #f6f8fa 60%, #e2d1f9 100%);
+  border-radius: 24px;
+  box-shadow: 0 4px 24px rgba(102,126,234,0.10);
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 2.5em 2em;
+}
+.profile-container {
+  background: linear-gradient(120deg, #eaf0fb 60%, #e2d1f9 100%);
+  border-radius: 24px;
+  box-shadow: 0 4px 24px rgba(102,126,234,0.10);
+  padding: 2.5em 2em;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto 2em auto;
+} 

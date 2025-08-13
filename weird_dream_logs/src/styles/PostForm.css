@@ -1,0 +1,57 @@
+/* Post Form Styles */
+.post-form {
+  background: #fff;
+  color: #222;
+  border-radius: 14px;
+  box-shadow: 0 2px 16px rgba(60,72,88,0.08);
+  padding: 2em 1.5em;
+  margin-bottom: 2em;
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  max-width: 600px;
+  width: 100%;
+  margin: 0 auto 2em auto;
+}
+.post-form input,
+.post-form select,
+.post-form textarea {
+  background: #f9fafb;
+  color: #222;
+  border: 1.5px solid #d1d5db;
+  border-radius: 8px;
+  padding: 0.8em 1em;
+  font-size: 1em;
+  margin-bottom: 0.5em;
+  transition: border-color 0.2s;
+}
+.post-form input:focus,
+.post-form select:focus,
+.post-form textarea:focus {
+  border-color: #667eea;
+  outline: none;
+}
+.post-form button {
+  background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 0.7em 1.5em;
+  font-size: 1em;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s, box-shadow 0.2s;
+}
+.post-form button:hover {
+  background: linear-gradient(90deg, #5a67d8 0%, #6c3483 100%);
+  box-shadow: 0 4px 16px rgba(102,126,234,0.10);
+}
+.error {
+  color: #e74c3c;
+  background: #fdf2f2;
+  border: 1px solid #fecaca;
+  padding: 0.75rem;
+  border-radius: 8px;
+  margin-top: 1rem;
+  font-size: 0.95rem;
+} 

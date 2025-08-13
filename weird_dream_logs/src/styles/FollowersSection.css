@@ -1,0 +1,151 @@
+/* Followers Section Styles */
+.followers-section-container {
+  background: #eaf0fb;
+  color: #222;
+  min-height: 60vh;
+  padding: 2em 1em;
+  border-radius: 24px;
+  box-shadow: 0 8px 32px rgba(60,72,88,0.10);
+  max-width: 1400px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2.5em;
+}
+.followers-tabs {
+  display: flex;
+  flex-direction: row;
+  gap: 2em;
+  margin-bottom: 2em;
+  background: #fff;
+  border-radius: 14px;
+  padding: 0.5em 2em;
+  box-shadow: 0 2px 8px rgba(60,72,88,0.06);
+  width: fit-content;
+  justify-content: center;
+  border: 1.5px solid #e1e5e9;
+}
+.followers-tabs button {
+  background: #f3f4f6;
+  color: #222;
+  border: none;
+  border-radius: 8px 8px 0 0;
+  padding: 0.8em 2.2em;
+  font-size: 1.1em;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s, border 0.2s;
+  box-shadow: none;
+  margin: 0;
+  outline: none;
+}
+.followers-tabs button.active {
+  background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+  color: #fff;
+  border-bottom: 2.5px solid #667eea;
+  z-index: 2;
+}
+.followers-tab-content {
+  background: linear-gradient(120deg, #f6f8fa 60%, #e2d1f9 100%);
+  color: #222;
+  border-radius: 20px;
+  box-shadow: 0 4px 24px rgba(60,72,88,0.10);
+  padding: 2.5em 2em;
+  margin-bottom: 2em;
+  display: block;
+  border: 1.5px solid #f3c6e9;
+}
+.user-list-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2.5em;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  justify-content: center;
+}
+.user-card {
+  background: linear-gradient(120deg, #f6f8fa 60%, #e2d1f9 100%);
+  color: #222;
+  border-radius: 14px;
+  box-shadow: 0 2px 8px rgba(60,72,88,0.08);
+  padding: 1.5em 1.2em;
+  margin-bottom: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.7em;
+  width: 100%;
+  align-items: flex-start;
+  border: 1.5px solid #f3c6e9;
+}
+.empty-message {
+  text-align: center;
+  color: #b0b6be;
+  font-size: 1.1em;
+  margin: 2em auto;
+  width: 100%;
+  display: block;
+}
+.user-card-header {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+}
+.user-card-avatar {
+  width: 54px;
+  height: 54px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #667eea;
+}
+.user-card-username {
+  font-weight: 600;
+  color: #222;
+  font-size: 1.1em;
+}
+.user-card-email {
+  color: #888;
+  font-size: 0.97em;
+}
+.user-card-bio {
+  color: #555;
+  font-size: 1em;
+}
+.user-card-actions button {
+  margin-right: 0.5em;
+  margin-top: 0.5em;
+  background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 0.5em 1.2em;
+  font-size: 1em;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s, box-shadow 0.2s;
+}
+.user-card-actions button:hover {
+  background: linear-gradient(90deg, #5a67d8 0%, #6c3483 100%);
+  box-shadow: 0 4px 16px rgba(102,126,234,0.10);
+}
+@media (max-width: 1100px) {
+  .user-list-grid {
+    grid-template-columns: repeat(2, minmax(200px, 1fr));
+  }
+}
+@media (max-width: 700px) {
+  .user-list-grid {
+    grid-template-columns: 1fr;
+  }
+  .followers-tab-content {
+    padding: 1em 0.5em;
+  }
+}
+.followers-card, .followers-section {
+  background: linear-gradient(120deg, #ffe0e9 60%, #fffbe6 100%);
+  border-radius: 16px;
+  box-shadow: 0 4px 24px rgba(102,126,234,0.10);
+  margin-bottom: 2em;
+  padding: 2em 1.5em;
+} 
